@@ -1439,12 +1439,6 @@ Unknown_23903,http://[2409:8087:1414:22::112d]/wh7f454c46tw3773685428_-181294940
 甘肃卫视 540,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226033/index.m3u8?from=21
 甘肃卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226875/index.m3u8?from=21
 甘肃卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226166/index.m3u8?from=21
-购物,http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227044/index.m3u8
-购物,http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
-购物,http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227044/index.m3u8
-购物,http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
-购物,http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227044/index.m3u8
-购物,http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
 古装剧场 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226790/index.m3u8?from=21
 广东卫视,http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226743/index.m3u8
 广东卫视,http://[2409:8087:1414:22::112d]/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226743/index.m3u8
@@ -1472,7 +1466,6 @@ Unknown_23903,http://[2409:8087:1414:22::112d]/wh7f454c46tw3773685428_-181294940
 海南卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8?from=21
 海南卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226801/index.m3u8?from=21
 海南卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8?from=21
-好享购物 720,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226663/index.m3u8?from=21
 河北卫视 540,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226013/index.m3u8?from=21
 河北卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226774/index.m3u8?from=21
 河北卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226645/index.m3u8?from=21
@@ -1685,7 +1678,6 @@ Unknown_23903,http://[2409:8087:1414:22::112d]/wh7f454c46tw3773685428_-181294940
 辽宁卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226626/index.m3u8?from=21
 辽宁卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226767/index.m3u8?from=21
 辽宁卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8?from=21
-辽宁宜佳购物 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226884/index.m3u8?from=21
 辽宁移动,http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
 辽宁移动,http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
 辽宁移动,http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
@@ -1785,7 +1777,6 @@ Unknown_23903,http://[2409:8087:1414:22::112d]/wh7f454c46tw3773685428_-181294940
 新疆卫视 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226151/index.m3u8?from=21
 新闻,http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226995/index.m3u8
 亚洲电影 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226898/index.m3u8?from=21
-央广购物 720,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226695/index.m3u8?from=21
 译制片 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226901/index.m3u8?from=21
 营口公共 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8?from=21
 营口新闻 576,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226849/index.m3u8?from=21
